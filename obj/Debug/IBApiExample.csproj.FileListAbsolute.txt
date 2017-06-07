@@ -1,0 +1,9 @@
+c:\users\alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\bin\Debug\IBApiExample.exe.config
+C:\Users\Alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\obj\Debug\IBApiExample.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\bin\Debug\IBApiExample.exe
+C:\Users\Alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\bin\Debug\IBApiExample.pdb
+C:\Users\Alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\bin\Debug\TWSLib.dll
+C:\Users\Alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\obj\Debug\IBApiExample.exe
+C:\Users\Alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\obj\Debug\IBApiExample.pdb
+C:\Users\Alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\bin\Debug\log4net.dll
+C:\Users\Alexandre\documents\visual studio 2015\Projects\IBApiExample\IBApiExample\bin\Debug\log4net.xml
